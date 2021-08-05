@@ -5,7 +5,7 @@
  
  Copyright:  (c) 2013-2018 by Instabug, Inc., all rights reserved.
  
- Version:    10.7.5
+ Version:    10.8.0
  */
 
 #import <UIKit/UIKit.h>
@@ -347,7 +347,9 @@ typedef NS_ENUM(NSInteger, IBGLocale) {
     IBGLocaleSwedish,
     IBGLocaleTurkish,
     IBGLocaleHungarian,
-    IBGLocaleFinnish
+    IBGLocaleFinnish,
+    IBGLocaleCatalan,
+    IBGLocaleCatalanSpain
 };
 
 /**
